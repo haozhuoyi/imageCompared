@@ -25,6 +25,8 @@
     # kmeansSegment()
     
 3、结果对比：略，最终使用edgeSegmentation（边界分割），副作用是曝光相关处理未解决
+    
+    ![WX20220523-152301](https://user-images.githubusercontent.com/72720742/169765488-0646aa6b-87ba-4c97-a1bb-dac3253924ec.png)
 
 4、对分割好的印记进行处理并对比：
     
